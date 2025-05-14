@@ -39,7 +39,7 @@ Este projeto consiste em uma landing page responsiva e moderno para a K'Doçura 
 
 ## 📱 Visualize o Site
 
-*O site estará disponível em breve*
+- [K'Doçura - Delicatessen](https://k-docura-delicatessen-landin-git-6a5cb5-jplabussierefs-projects.vercel.app/)
 
 ## 🤝 Motivação
 
